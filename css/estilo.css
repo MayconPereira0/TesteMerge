@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(19, 252, 252);
+    margin: 0;
+
+}
+
+header {
+    height: 50px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
